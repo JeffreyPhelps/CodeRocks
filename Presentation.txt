@@ -1,0 +1,20 @@
+
+Intro (Jeff): 
+
+Hello, My name is Jeffrey Phelps, representing team Code Rocks! Consisting of myself, Karen Gertenback, Maria Kuznetsova,
+and Eric Goldstein. Together we comprize the group that worked together to create this fun and practical entertainment 
+application, entitled, "Code Rocks! Super Band Locator" ...Partially inspired by a classroom example and, of course, 
+the love of music!
+
+To us it seems pretty intuitive as to what the application is intended to provide, upon first glance.
+
+
+What we did.
+
+Successes.
+
+Challenges.
+
+Expandibility.
+
+
