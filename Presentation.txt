@@ -44,4 +44,4 @@ And finally, for the expandibility of this app, I'd persoanlly like to potential
 so that anyone using the app could purchase tickets to any one of the events listed, likely here, next to the events. (or,
 a Live Stream API, of some sort, that plugs in live streaming events of concerts that may be happening at the time.)
 
-And now, I'll hand it off to my colleague, Maria Kuznetsova, to continue with her portion of the project. Thanks very much!
+And now, I'll hand it off to my colleague, Eric Goldstein, to continue with her portion of the project. Thanks very much!
