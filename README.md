@@ -4,7 +4,7 @@ DU Full-Stack Web Dev Bootcamp 2017/2018 - Week-8 Homework - Project 1 (Code Roc
 ## Description
 This JavaScript app uses multiple APIs to call out for all the latest on your favorite rock band.
 
-## [Live Site Link](https://jeffreyphelps.github.io/CodeRocks/)
+### [Live Site Link](https://jeffreyphelps.github.io/CodeRocks/)
 
 ## Built With
 
