@@ -1,4 +1,4 @@
-# CodeRocks: Super Band Locator
+# Code Rocks: Super Band Locator
 DU Full-Stack Web Dev Bootcamp 2017/2018 - Week-8 Homework - Project 1 (Code Rocks: Super Band Locator)
 
 ## Description
