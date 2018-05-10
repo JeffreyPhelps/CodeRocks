@@ -1,7 +1,6 @@
 # Code Rocks: Super Band Locator
 DU Full-Stack Web Dev Bootcamp 2017/2018 - Week-8 Homework - Project 1 (Code Rocks: Super Band Locator)
 
-## Live Site Link
 ## [Live Site Link](https://jeffreyphelps.github.io/CodeRocks/)
 
 ## Description
